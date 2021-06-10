@@ -21,7 +21,7 @@ I live in Rostov on Don and I am 15 y.o.
 <br>
 
 <a href="https://github.com/ZuffyCh">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZuffyCh&layout=compact&theme=monokai" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ZuffyCh&show_icons=true&theme=monokai" />
 </a>
 
 <a href="https://github.com/ZuffyCh">
