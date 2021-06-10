@@ -1,7 +1,6 @@
 # 👋 Hello!
 - Hi, I’m Dmitriy a.k.a ZuffyCh
-<br>
-I live in Rostov on Don and I am 15 y.o.
+- I live in Rostov on Don and I am 15 y.o.
 
 ## 👀 My intereses:
 <a href="https://github.com/ZuffyCh">
