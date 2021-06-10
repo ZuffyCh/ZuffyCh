@@ -2,9 +2,6 @@
 - Hi, I’m Dmitriy a.k.a ZuffyCh
 I live in Rostov on Don and I am 15 y.o.
 
-<br>
-<br>
-
 ## 👀 My intereses:
 <a href="https://github.com/ZuffyCh">
   <img align="left" width="46px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" />
